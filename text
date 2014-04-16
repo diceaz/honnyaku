@@ -124,32 +124,46 @@ people have to deliver ...”
 その他のコメント：
 「何をすべきか知っている人はかなりいます。彼らはなにかをインターネットから情報を得ている
 からです。それゆえ時に計画を立てるのが難しいのですが、ボスを確信させて軌道に乗せてください。
-概してボスはテストスイートのツールベンダーが他の人々に必要だと約束したことへのメンテナンス
+概してボスは、テストスイートのツールベンダーが他の人々に必要だと約束したことへのメンテナンス
 コストを聞きたくはないのです。
 
 “Lack of discipline. The BAs and developers know they should do it, and (mostly)
 have the skills, there is the direction from the top (at least from the top of the
 development org chart) but they lack the discipline and/or culture to do it
 consistently.”
+「修練不足。ビジネスアナリストと開発者は修練をすべきことを知っているし、大抵の場合スキルも
+持っているが、トップ（少なくとも開発組織上の）の指揮はあるものの、修練不足かもしくは首尾一貫
+して修練する文化がないかである。」
 
 We then asked more specific questions about each of these major problem
 areas, in Questions 3 to 7.
-
+我々は質問3から7でこれらのメジャーな問題エリアへの明確な質問をしています。
 
 Q3: Lack of support:
+Q3: サポート不足：
 
 The “winner” in this category was managers expecting a “silver bullet” (54%), but
 developers not helping the automation team came out at 39%. The Other category
 included specialists not helping the automation team and no-one helping new people.
+このカテゴリの勝者は解決策を予期しているマネージャ（54%）だが、自動化チームのサポートを
+しない開発者が39%につけています。その他には自動化チームをサポートしないかつ、新人もサポート
+しないスペシャリストが入っています。
+
 Comments:
 
 “There is management support at the engineering level, however higher up the chain
 we are getting resistance (from product owners, stakeholders) who fail to understand
 the importance of test regression, and therefore feel that money spent upfront in
 building a regression suite is waste.”
+「エンジニアリングのレベルでマネジメントのサポートはあるものの、
+我々は（プロダクトオーナーやステークホルダーから）抵抗にあいます。彼らはリグレッションテスト
+の重要性を理解できず、またそれゆえにリグレッションスイートは無駄で前払いでお金を使うことと
+感じているのです。」
 
 “As for management, ROI seems to be [in the] driver's seat all throughout the
 program. Team looses focus to create quality test suites with good test technique.”
+「マネジメントにとっては、ROIがプログラムを通じて支配的地位を占めます。チームは素晴らしいテスト
+テクニックでテストスイートの品質を作りこむことへの意識を失っています。」
 
 “I think everyone sees the benefit of automation but if you use vendors, particularly
 offshore then how are they incentivized to do process improvement (including
