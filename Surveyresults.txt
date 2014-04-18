@@ -253,6 +253,7 @@ no overall architecture for cross-platform, cross-application automation. “
 
 
 Q6: Lack of specific knowledge
+Q6: ナレッジ不足
 
 The two highest responses here are The people that are to use the tool don’t know
 how to use it (38%) and Testers are supposed to write automation scripts but don’t
@@ -260,30 +261,43 @@ know how (34%). For 30%, the automators don’t know the application [whose test
 they are automating. The least popular response was 9% where the only one who
 knew about automation has left the company. The remaining responses were all
 between 21% and 25%.
+どのようにしてツールを使うか知らない（38%）と、テスターはどのようにしてスクリプトを書くか知らない（34%）
+という2つの回答が目立ちました。そして30%がオートメータは自動化しようとしているテスト対象のアプリケー
+ションを知らないという回答でした。最も少なかったのが9%で、唯一自動化を知っている人が会社を去ったこと
+でした。残りは21%と25%の間でした。
 
 Comments:
 “People requesting automated tests have unrealistic expectations of what can be
 automated or how long it will take. “
+「テスト自動化は、何が自動化できるのかどのくらいかかるのか、非現実的な期待を寄せられます。」
 
 “The tool is selected by the umpire: 'Look - we HAVE this tool. Make do with that -
 somebody told me that it can get the job done, so I don't wanna hear that YOU can't
 do it...'”
+「ツールは審判に決められます：’ほら、このツールがあるじゃないか。これでできるって誰かが言ってたし、
+できないなんて聞きたくないんだ。’」
 
 “The testers are generally well-informed but lack management and governance. It is
 also a large test team moving towards DevOps and Continuous testing but are
 constantly beset by co-ordination problems, a lack of direction and real management
 and DB set up problems. (Each test environment is over 100GB because they are
 dealing with large media files) “
+「テスターは大抵精通しているが、マネジメントや管理が残念だ。大きなテストチームはDevOpsや継続的テスト
+に向かっているが絶えず同じ問題に付きまとわれている。方向性やマネジメントの欠如、DBのセットアップの問
+題など（テスト環境は大きなメディアファイルを扱うので100GBを超える）。」
 
 “New application being built and automated at the same time. Issues with build
 constantly changing, application knowledge, disconnect between vendor builders,
 scripter and automators. We are still working out how this process will work best. “
+「新しいアプリはビルドされると同時に自動化される。ビルドは常に変化し、アプリ知識も変わり、ベンダー
+ビルダー、スクリプタ、オートメータにすれ違いがおきる。我々は未だにこのプロセスをベストに回すやり方
+を編み出していないのだ。」
 
 “How to measure effeciency of automated tests? “ (a very good question!)
-
-
+「自動化されたテストの効果的な測り方は？」
 
 Q7: Unsatisfactory quality of automation
+Q7: 自動化のいただけない品質
 
 The most common problem here was a bit of a surprise (to me)   it is Automated
 scripts don’t execute reliably (50%). The runner-up in this category is Maintenance of
@@ -291,12 +305,18 @@ automation is too expensive (44%). The 3rd is Expected Return on Investment (ROI
 has not been achieved (34%). Two factors were voted in by 28% of respondents:
 Execution of automated scripts is too slow and Important tests have not been
 automated, only easy ones. The rest were all approximately 20%.
+ここでの一番の問題点は少し驚きで、自動化スクリプトの実行に信頼をおけない（50%）。
+次点が自動化の保守費がとても高いことでした（44%）。3番目が期待したROIに届かなかったこと（34%）。
+28%の回答が、自動化の実行がとても遅いことと、重要度の高いテストは自動化されずに簡単なテストのみ自動化
+されるという2つのファクターがありました。残りはほぼ20%でした。
 
 Comments:
 “The biggest problem by far is inadequate requirements management.”
+「最大の問題は、不十分な要求管理だ。」
 
 “Most test environments require too much simulation behavior (mocks) which means
 that coverage is rather low or people do not trust the results.”
+「多くのテスト環境は、カバレッジが低く結果が信じがたいシミュレーションの振る舞いのようだ。」
 
 “The above all depends on vendor and quality of the resource. Typically where I have
 used a UK test company the quality is generally good, but where the work is
@@ -306,7 +326,12 @@ automated scripts which require some clever development or for any innovation.
 What I have experienced is the common sense element is just not there, but where it
 has worked is where the framework is developed onsite and then basic stuff is rolled
 out offshore where the manager goes offshore as well to manage the work.”
-
+「結局はベンダーとリソースの品質次第なのだ。UKのテスト会社の品質は概ね良かったのだが、ほとんど
+オフショアを使っていて、彼らはベーシックコンセプトに取り組んでいた。オフショアは基本スクリプトを
+開発するなど工場レベルの仕事に使うべきで、自動スクリプトを含むような賢明な開発やイノベーションを
+期待し任せてはならない。
+私が経験したのは常識的なことで、フレームワークはオンサイトで開発され、基本スタッフはマネージャが
+うまく管理できるオフショアに任すということだった。」
 
 Automation books
 I listed six books on test automation, and asked if people had heard of them, read
