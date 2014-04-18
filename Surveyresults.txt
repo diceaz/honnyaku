@@ -4,8 +4,8 @@ Test Automation Problems   Survey results
 In February/March 2014, I put out a survey on Test Automation Problems (using
 surveymonkey.com). The main reason was to find out whether or not the problems we
 thought were common in automation actually were.
-2014年2月から3月に、私はテスト自動化の問題についての調査を行いました（surveymonkey.com
-を使い）。調査の主な理由は、私たちがテスト自動化において実際に共通であると思っている問題
+2014年2月から3月に、テスト自動化の問題についての調査を行いました（surveymonkey.com
+を使って）。調査の主な理由は、私たちがテスト自動化において実際に共通であると思っている問題
 が本当にそうなのかどうかを知りたかったからです。
 
 The questions we asked are related to the “diagnostic questions” that we now have on
@@ -224,19 +224,32 @@ The most common problem here was automation being done without a strategy or
 architecture (27%), followed by testers doing automation don’t know how to do it
 well (19%). Only 8% voted for no-one being in charge of automation, everyone does
 what they want.
+この質問は、（パーセンテージがより低いように）多くのものをチェックすることができるというよりかは、
+最もあてはまる1つを選ぶ必要がありました。
+ここでの最も多くの問題は戦略あるいはアーキテクチャ無しでの自動化が行われているということでした（27%）。
+続くのが、テスターはどうやってうまいこと自動化するかを知らずにやっていることです（19%）。
+8%だけ誰も自動化を担当しておらず、皆好きなことをしていると回答しています。
+
 
 Comments:
 “Testers/management think they have to automate the manual test cases as is, and
 hire an automator to do that job - any issues resulting from this setup are blamed on
 ‘bad automation’"
+「テスターあるいはマネジメントは手動テストケースをそのまま自動化するべきと考えていて、その通りに
+こなしてくれるオートメータを採用します - この状況こそが、’悪い自動化’の原因である。」
 
 “Perhaps it is not 'lack' of direction but more 'wrong' direction as it relates to an
 earlier statement: "Managers expect a silver bullet" and therefore insist on
 automating basically everything (which is obviously not possible, nor efficient let
 alone useful..) “
+「おそらくは方向性の’欠如’ではなくて、早い段階での声明が起因するより’悪い’方向性なのではないか：
+”マネージャは解決策を望む”それゆえ自動化が基本的にすべてであると（役に立つことは言うまでもなく、
+明らかに可能でもないし、効率的でもありません）。」
 
 “Each application group is doing their own thing, multiple tools and frameworks with
 no overall architecture for cross-platform, cross-application automation. “
+「各アプリケーションチームは彼ら独自のことをしていて、クロスプラットフォームやクロスアプリケーション
+をカバーする自動化のツールやフレームワークを考えていません。」
 
 
 Q6: Lack of specific knowledge
