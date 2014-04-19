@@ -333,31 +333,40 @@ out offshore where the manager goes offshore as well to manage the work.”
 私が経験したのは常識的なことで、フレームワークはオンサイトで開発され、基本スタッフはマネージャが
 うまく管理できるオフショアに任すということだった。」
 
+
 Automation books
 I listed six books on test automation, and asked if people had heard of them, read
 them, and/or recommended them. I was pleased to see that my own two books seemed
 to be the best known, most read, and most recommended! But then, I did send this
 survey to a lot of people who I already knew! Each book was recommended by at
 least 3 people (and mine by over 20 - :&)
+テスト自動化の本をリストアップしておきました。読んでみるといいよ。
+
 Thanks to one respondent for this:
 
 “Experiences of Test Automation: Case Studies is probably the only other book to do
 a decent job balancing the technical side and the management side.”
+「テスト自動化の経験：ケーススタディーこそテクニカルとマネジメントの両面でバランスをとって適切な
+仕事を成し遂げるもう一つの本である。」
+
 There were also a number of suggestions for other books on automation, as well as
 mentions of blogs, etc.
+他にもブログとかで挙げられる自動化のサジェッションに富んだ他の本もあるよ。
+
 - The “A” Word, Alan Page (download from leanpub   new to me, interesting
 short blog posts about automation, including why not to do [much] GUI
 automation   well worth a read)
-
 - Automated Testing Handbook, Linda Hayes (re-published in 2004 but looks to
 be the same content as the 1995 version I have. A good summary of
 automation principles   good for high level managers?)
-
 - Lessons Learned in Software Testing, Kaner, Bach & Pettichord (very good
 book on testing with useful automation wisdom too)
 - How Google Tests Software, Whittaker, Arbon & Carollo
 - Testautomatsierung, Seidl, Baumgartner & Bucsics
+
 The following books are more technical; I am not familiar with them.
+次により技術的な本です。あまり詳しくないけど。
+
 - .NET Test Automation Recipes, James McCaffrey (mainly good reviews)
 - Next Generation Java Testing: TestNG and Advanced Concepts, Cedric Beust
 & Hani Suleiman. (written by the author of TestNG, mixed reviews.)
@@ -371,5 +380,6 @@ Developers, Wynne & Hellesoy
 
 
 Thanks to all those who took the time to fill in the survey!
+答えてくれた皆さんに感謝します！
 
 Dorothy Graham, 27th March 2014
